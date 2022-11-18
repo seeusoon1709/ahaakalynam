@@ -1,0 +1,35 @@
+
+.fotterclass{
+    height: 3px;
+    background-color: #153462;
+}
+.fotterclass1{
+    height: 10px;
+    background-color:white;
+}
+.fotter{
+    display: flex;
+    padding-left: 80px;
+    background-color: #153462;
+}
+.fotter p{
+    color: white;
+}
+.fotter ul{
+    display: flex;
+    list-style: none;
+    padding-left: 800px;
+}
+.fotter ul li{
+    margin-left: 20px;
+}
+.fotter ul li button{
+    color: blue;
+    border-radius: 8px;
+}
+.fotter ul li button:hover{
+    background-color: rgb(60, 47, 133);
+}
+
+
+
