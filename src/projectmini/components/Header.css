@@ -1,0 +1,29 @@
+body{
+    background-color: #F6F6C9;
+ 
+}.navahh{
+
+    position: relative;
+    position:sticky;
+    top: 0;
+    height: 100px;
+    margin-top: 0%;
+    padding-top: 0%;
+    background-color:#153462;
+    overflow: hidden;
+}
+.navahh h1{
+    padding-top: 0px;
+  color:#4FA095;
+    margin-left: 150px;
+    margin-bottom: 0%;
+}
+.navahh h2{
+    margin-left:200px;
+    color:white;
+    margin-top: 0%;
+    
+    
+    
+   
+}

@@ -1,0 +1,95 @@
+.Edu h1{
+    color:#4FA095;
+    margin-left: 500px;
+    
+
+}
+
+.quali{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.quali label{
+    
+    font-weight: 200;
+    margin-right: 110px;
+    
+    
+}
+.quali input{
+    padding: 10px 100px 10px 170px;
+}
+.emp{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.emp label{
+    
+    font-weight: 200;
+    margin-right: 160px;
+    
+    
+}
+.emp input{
+    padding: 10px 100px 10px 170px;
+}
+.occu{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.occu label{
+    
+    font-weight: 200;
+    margin-right: 170px;
+    
+    
+}
+.occu input{
+    padding: 10px 100px 10px 180px;
+}
+.income{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.income label{
+    
+    font-weight: 200;
+    margin-right: 140px;
+    
+    
+}
+.income input{
+    padding: 10px 100px 10px 180px;
+}
