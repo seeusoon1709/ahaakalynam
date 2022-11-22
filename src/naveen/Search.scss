@@ -1,0 +1,71 @@
+.basic{
+    background-color: #F6F6C9;
+    padding: 20px;
+
+    .top{
+        display: flex;
+        justify-content: space-between;
+        padding: 0 60px;
+
+        .first{
+            font-size: 30px;
+            font-weight: 300;
+        }
+        .second{
+            display: flex;
+            height: 10%;
+
+            input{
+                border: 1px solid #000;
+                border-radius: 5px;
+            }
+            button{
+                background-color: rgb(252, 64, 64);
+                color: #fff;
+                border: none;
+                border-top-left-radius: 10px;
+                border-bottom-right-radius: 10px;
+                cursor: pointer;
+            }
+            button:hover{
+                background-color: rgb(249, 28, 28);
+            }
+        }
+    }
+    .mid{
+        display: flex;
+        justify-content: center;
+        
+        select{
+            padding: 5px;
+        }
+        input{
+            width: 100%;
+            padding: 10px;
+        }
+        td{
+            padding: 10px;
+        }
+        .row{
+            width: 400px;
+        }
+    }
+
+    .bottom{
+        display: flex;
+        justify-content: center;
+        button{
+            display: flex;
+            font-size: 20px;  
+            background-color: rgb(252, 95, 95);
+            border: none;
+            border-bottom-right-radius: 10px;
+            border-top-left-radius: 10px;
+            padding: 5px;
+            cursor: pointer;
+        }
+        button:hover{
+            background-color: rgb(250, 39, 39);
+        }
+    }
+}
