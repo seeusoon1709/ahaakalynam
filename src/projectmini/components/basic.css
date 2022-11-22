@@ -1,0 +1,262 @@
+.basicinfo h1{
+    color:#4FA095;
+    margin-left: 500px;
+    
+
+}
+
+.email{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.email label{
+    
+    font-weight: 200;
+    margin-right: 200px;
+    
+    
+}
+.email input{
+    padding: 10px 100px 10px 100px;
+}
+.gender{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.gender label{
+    
+    font-weight: 200;
+    margin-right: 200px;
+    
+    
+}
+.gender select{
+    padding: 10px 100px 10px 100px;
+    font-size: 17px;
+}
+.Marital{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.Marital label{
+    
+    font-weight: 200;
+    margin-right: 160px;
+    
+    
+}
+.Marital select{
+
+    padding: 10px 100px 10px 170px;
+    font-size: 17px;
+}
+.Birth{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.Birth label{
+    
+    font-weight: 200;
+    margin-right: 175px;
+    
+    
+}
+
+.Birth input{
+    padding: 10px 100px 10px 150px;
+}
+.country{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.country label{
+    
+    font-weight: 200;
+    margin-right: 110px;
+    
+    
+}
+.country select{
+    padding: 10px 90px 10px 140px;
+    font-size: 17px;
+}
+.state{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.state label{
+    
+    font-weight: 200;
+    margin-right: 135px;
+    
+    
+}
+.state select{
+    padding: 10px 80px 10px 70px;
+    font-size: 17px;
+}
+.no{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.no label{
+    
+    font-weight: 200;
+    margin-right: 150px;
+    
+    
+}
+.no input{
+    padding: 10px 100px 10px 140px;
+}
+.pin{
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.pin label{
+    
+    font-weight: 200;
+    margin-right: 200px;
+    
+    
+}
+.pin input{
+    padding: 10px 100px 10px 140px;
+}
+.Add{
+    height:90px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.Add label{
+    
+    font-weight: 200;
+    margin-right: 200px;
+    
+    
+}
+.Add textarea{
+    padding: 10px 100px 10px 120px;
+    font-size: 17px;
+} 
+.Mot {
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.Mot  label{
+    
+    font-weight: 200;
+    margin-right: 150px;
+    
+    
+}
+.Mot select{
+    padding: 10px 100px 10px 130px;
+    font-size: 17px;
+}
+.religion  {
+    height:50px;
+    width:70%;
+    display: block;
+     margin-left: 200px;
+     margin-top: 50px;
+    overflow: hidden;
+    border-style: solid;
+    
+    border-width: 1px;
+    border-color: #F6F6C9  #F6F6C9 #c2bfba #F6F6C9 ;
+}
+.religion   label{
+    
+    font-weight: 200;
+    margin-right: 200px;
+    
+    
+}
+.religion select{
+    padding: 10px 100px 10px 180px;
+    font-size: 17px;
+}
+hr{
+    border: 1px solid rgb(177, 167, 167);
+    margin:0 5%;
+}
